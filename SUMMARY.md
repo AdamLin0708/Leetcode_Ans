@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [1\_Two-Sum](1two-sum.md)
+* [Q1-Two-Sum](1two-sum.md)
 
