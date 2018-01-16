@@ -25,18 +25,23 @@ var twoSum = function(nums, target) {
 作法二：透過Hash紀錄index跟value
 
 1. 以一個hash table 紀錄每一筆對應的index跟value
-2. 每一次iterate，先找number\_t_o\__find是否有在hash table內 \(number\_t_o\__find = target - nums\[i\]
-3. 若有，則回傳該number\_t_o\__find在hash內的index，跟當下iterate number
+2. 每一次iterate，先找number\_t\_o\_\_find是否有在hash table內 \(number\_t\_o\_\_find = target - nums\[i\]
+3. 若有，則回傳該number\_t\_o\_\_find在hash內的index，跟當下iterate number
 4. 若無，則將該iterate number跟nums\[i\]加到hash table內
 
 Languages: Ruby
 
+Method:
+
+* hash.has\_value? [http://ruby-doc.org/core-2.2.0/Hash.html\#method-i-has\_value-3F](http://ruby-doc.org/core-2.2.0/Hash.html#method-i-has_value-3F)
+* hash.key [http://ruby-doc.org/core-2.2.0/Hash.html\#method-i-key](http://ruby-doc.org/core-2.2.0/Hash.html#method-i-key)
+
 ```
 def two_sum(nums, target)
-    
+
     hash = {}
     ans = []
-        
+
     for i in 0...nums.length
         number_to_find = target - nums[i]
         if hash.has_value?(number_to_find)
@@ -45,9 +50,9 @@ def two_sum(nums, target)
             hash[i] = nums[i]
         end        
     end
-    
+
     return ans
-    
+
 end
 ```
 
