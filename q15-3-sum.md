@@ -4,7 +4,7 @@ Problems: [https://leetcode.com/problems/3sum/description/](https://leetcode.com
 
 作法：參考討論區的做法
 
-------------------------------------------------------------------------------------------
+---
 
 1. 跑 for 迴圈，並且範圍是 0 .. nums.length-2  \(因為最少要三個一組，小於三個直接return）
 2. 每跑一個iterate，先找出target值\(target = 0 - nums\[i\]\)
@@ -17,25 +17,29 @@ Problems: [https://leetcode.com/problems/3sum/description/](https://leetcode.com
 6. 當nums\[lo\] + nums\[hi\] &gt; target
    1. hi--
 
-------------------------------------------------------------------------------------------
+---
 
 Language: Ruby
+
+Method: 
+
+* while loop in one line: [https://teamtreehouse.com/community/single-line-while-loop-with-brackets](https://teamtreehouse.com/community/single-line-while-loop-with-brackets)
 
 ```
 # @param {Integer[]} nums
 # @return {Integer[][]}
 def three_sum(nums)
-        
+
     # 先排序原本的nums
     nums = nums.sort            
     ans = []
-    
+
     for i in 0...nums.length-2
         if ( i==0 || (i>0 && nums[i] != nums[i-1]) )
             lo = i+1
             hi = nums.length-1
             target = 0 - nums[i]                        
-            
+
             while lo<hi do
                 if nums[lo]+nums[hi] == target
                     ans.push([nums[i], nums[lo], nums[hi]])
@@ -51,9 +55,9 @@ def three_sum(nums)
             end
         end
     end
-    
+
     return ans
-    
+
 end
 ```
 
