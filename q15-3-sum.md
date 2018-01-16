@@ -21,7 +21,7 @@ Problems: [https://leetcode.com/problems/3sum/description/](https://leetcode.com
 
 Language: Ruby
 
-Method: 
+Method:
 
 * while loop in one line: [https://teamtreehouse.com/community/single-line-while-loop-with-brackets](https://teamtreehouse.com/community/single-line-while-loop-with-brackets)
 
