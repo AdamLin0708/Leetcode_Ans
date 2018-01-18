@@ -2,8 +2,8 @@
 
 ## Numeric
 
-* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                   ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
-* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                   ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
+* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                     ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
+* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                     ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
 
 ## Loop
 
@@ -18,6 +18,8 @@
 ## Array
 
 * Array join: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-join](http://ruby-doc.org/core-2.2.0/Array.html#method-i-join)
+* Array push [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-push](http://ruby-doc.org/core-2.2.0/Array.html#method-i-push)
+* Array index [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-index](http://ruby-doc.org/core-2.2.0/Array.html#method-i-index)
 
 ## Hash
 
