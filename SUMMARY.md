@@ -12,6 +12,7 @@
   * [Q461-Hamming-Distance](q401-500/q461-hamming-distance.md)
   * [Q463-Island-Perimeter](q401-500/q463-island-perimeter.md)
   * [Q476-Number-Complement](q401-500/q476-number-complement.md)
+  * [Q496-Next-Greater-Element-I](q401-500/q496-next-greater-element-i.md)
   * [Q500-Keyboard-Row](q401-500/q500-keyboard-row.md)
 * [Q501-600](q551-600.md)
   * [Q557-Reverse-Words-In-A-String-III](q501-600/q557-reverse-words-in-a-string-iii.md)
