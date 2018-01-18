@@ -2,8 +2,8 @@
 
 ## Numeric
 
-* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                       ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
-* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                       ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
+* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                           ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
+* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                           ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
 
 ## Loop
 
@@ -24,6 +24,7 @@
 * Array push [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-push](http://ruby-doc.org/core-2.2.0/Array.html#method-i-push)
 * Array index [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-index](http://ruby-doc.org/core-2.2.0/Array.html#method-i-index)
 * Array include?: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-include-3F](http://ruby-doc.org/core-2.2.0/Array.html#method-i-include-3F)
+* Array select: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-select](http://ruby-doc.org/core-2.2.0/Array.html#method-i-select)
 
 ## Hash
 
@@ -34,6 +35,12 @@
 ## Tree
 
 * Implement tree with Ruby: [https://stackoverflow.com/questions/7196430/implementing-tree-with-ruby](https://stackoverflow.com/questions/7196430/implementing-tree-with-ruby)
+
+## RegExp
+
+* [https://ruby-doc.org/core-2.1.1/Regexp.html\#class-Regexp-label-Alternation](https://ruby-doc.org/core-2.1.1/Regexp.html#class-Regexp-label-Alternation)
+
+
 
 
 
