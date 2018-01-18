@@ -2,8 +2,8 @@
 
 ## Numeric
 
-* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                             ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
-* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                             ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
+* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                               ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
+* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                               ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
 
 ## Loop
 
@@ -17,6 +17,8 @@
 * String downcase: [https://ruby-doc.org/core-2.1.0/String.html\#method-i-downcase](https://ruby-doc.org/core-2.1.0/String.html#method-i-downcase)
 * \(補充\) String upcase: [https://ruby-doc.org/core-2.2.0/String.html\#method-i-upcase](https://ruby-doc.org/core-2.2.0/String.html#method-i-upcase)
 * \(補充\) String capitalize: [https://ruby-doc.org/core-2.2.0/String.html\#method-i-capitalize](https://ruby-doc.org/core-2.2.0/String.html#method-i-capitalize)
+* String to\_i: [https://ruby-doc.org/core-2.0.0/String.html\#method-i-to\_i](https://ruby-doc.org/core-2.0.0/String.html#method-i-to_i)
+* String is\_a? Integer: [https://stackoverflow.com/questions/4589968/checking-if-a-variable-is-an-integer](https://stackoverflow.com/questions/4589968/checking-if-a-variable-is-an-integer)
 
 ## Array
 
@@ -25,6 +27,7 @@
 * Array index [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-index](http://ruby-doc.org/core-2.2.0/Array.html#method-i-index)
 * Array include?: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-include-3F](http://ruby-doc.org/core-2.2.0/Array.html#method-i-include-3F)
 * Array select: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-select](http://ruby-doc.org/core-2.2.0/Array.html#method-i-select)
+* Array pop: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-pop](http://ruby-doc.org/core-2.2.0/Array.html#method-i-pop)
 
 ## Hash
 
