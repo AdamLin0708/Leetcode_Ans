@@ -12,4 +12,5 @@
 * [Q657-Judge-Route-Circle](q657-judge-route-circle.md)
 * [Q728-Self-Dividing-Numbers](q728-self-dividing-numbers.md)
 * [Q760-Find-Anagram-Mappings](q760-find-anagram-mappings.md)
+* [Used-Ruby-Method](used-ruby-method.md)
 

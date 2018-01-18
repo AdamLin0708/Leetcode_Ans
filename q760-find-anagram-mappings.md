@@ -8,7 +8,7 @@ Problems: [https://leetcode.com/problems/find-anagram-mappings/description/](htt
 
 Languages: Ruby
 
-Method: 
+Method:
 
 * array.push [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-push](http://ruby-doc.org/core-2.2.0/Array.html#method-i-push) 
 * array.index [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-index](http://ruby-doc.org/core-2.2.0/Array.html#method-i-index)
@@ -18,13 +18,13 @@ Method:
 # @param {Integer[]} b
 # @return {Integer[]}
 def anagram_mappings(a, b)
-    
+
     ans = []
-    
+
     for i in 0...a.length
         ans.push(b.index(a[i]))
     end
-    
+
     return ans
 end
 ```
