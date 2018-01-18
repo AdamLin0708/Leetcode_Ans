@@ -11,5 +11,4 @@
 * [Q595-Big-Countries](q595-big-countries.md)
 * [Q617-Merge-Two-Binary-Tree](q617-merge-two-binary-tree.md)
 * [Q657-Judge-Route-Circle](q657-judge-route-circle.md)
-* Q557-Reverse-Words-In-A-String-III
 

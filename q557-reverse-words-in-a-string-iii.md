@@ -20,27 +20,25 @@ Method:
 # @param {String} s
 # @return {String}
 def reverse_words(s)
-    
+
     # 作法：
     # 先將word從string中切開
     # 個別去反轉後join再一起即是答案
-   
+
     s_split = s.split    
     res = []
-    
+
     for i in 0...s_split.length
         s_split[i] = s_split[i].reverse        
         res.push(s_split[i])
     end
-    
+
     ans = res.join(' ').squeeze(' ')
-    
+
     return ans
-        
+
 end
 ```
-
-
 
 
 
