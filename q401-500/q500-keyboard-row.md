@@ -77,7 +77,7 @@ Language: Ruby
 
 RegExp Explain:
 
-* "=~" 表示 match: [https://ruby-doc.org/core-2.1.1/Regexp.html\#class-Regexp-label-Alternation](https://ruby-doc.org/core-2.1.1/Regexp.html#class-Regexp-label-Alternation)
+* "=~" 表示 match: [https://ruby-doc.org/core-2.1.1/Regexp.html](https://ruby-doc.org/core-2.1.1/Regexp.html)
 * "\[\]" 表示 裡面的字元都可以取: \[abcde\] =&gt; a or b or c or d or e 
 * "\*" 表示 可以取多組: a\* =&gt; a, aa, aaa, aaa....
 * "\|" 表示 or:   /\(condition1\) \| \(condition2\)/ 

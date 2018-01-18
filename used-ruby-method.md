@@ -2,8 +2,8 @@
 
 ## Numeric
 
-* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                           ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
-* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                           ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
+* 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s                             ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
+* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A                             ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
 
 ## Loop
 
@@ -38,9 +38,7 @@
 
 ## RegExp
 
-* [https://ruby-doc.org/core-2.1.1/Regexp.html\#class-Regexp-label-Alternation](https://ruby-doc.org/core-2.1.1/Regexp.html#class-Regexp-label-Alternation)
-
-
+* [https://ruby-doc.org/core-2.1.1/Regexp.html](https://ruby-doc.org/core-2.1.1/Regexp.html)
 
 
 
