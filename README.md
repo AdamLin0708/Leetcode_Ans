@@ -1,6 +1,6 @@
 # Leetcode Ans
 
-Topic: Leetcode Ans 
+Topic: Leetcode Ans
 
 Author: Adam Lin
 
@@ -17,6 +17,7 @@ Language: Ruby
 * [Q401-500](q451-500.md)
   * [Q461-Hamming-Distance](q401-500/q461-hamming-distance.md)
   * [Q476-Number-Complement](q401-500/q476-number-complement.md)
+  * [Q500-Keyboard-Row](https://www.gitbook.com/book/adamlin0708/leetcode_ans/edit#)
 * [Q501-600](q551-600.md)
   * [Q557-Reverse-Words-In-A-String-III](q501-600/q557-reverse-words-in-a-string-iii.md)
   * [Q561-Array-Partition-I](q501-600/q561-array-partition-i.md)
