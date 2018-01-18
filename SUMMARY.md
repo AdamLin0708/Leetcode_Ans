@@ -6,7 +6,7 @@
   * [Q1-Two-Sum](q1-100/q1-two-sum.md)
   * [Q15-3-Sum](q1-100/q15-3-sum.md)
 * [Q301-400](q300-350.md)
-  * [Q344-Reverse-String](q300-350/q344-reverse-string.md)
+  * [Q344-Reverse-String](q301-400/q344-reverse-string.md)
 * [Q401-500](q451-500.md)
   * [Q461-Hamming-Distance](q401-500/q461-hamming-distance.md)
   * [Q476-Number-Complement](q401-500/q476-number-complement.md)
