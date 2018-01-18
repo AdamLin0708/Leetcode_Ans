@@ -15,6 +15,7 @@
 * [Q501-600](q551-600.md)
   * [Q557-Reverse-Words-In-A-String-III](q501-600/q557-reverse-words-in-a-string-iii.md)
   * [Q561-Array-Partition-I](q501-600/q561-array-partition-i.md)
+  * [Q575-Distribute-Candies](q501-600/q575-distribute-candies.md)
   * [Q595-Big-Countries](q501-600/q595-big-countries.md)
 * [Q601-700](q600-650.md)
   * [Q617-Merge-Two-Binary-Tree](q601-700/q617-merge-two-binary-tree.md)
