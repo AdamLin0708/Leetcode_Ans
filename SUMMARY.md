@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Used Ruby Method](ruby-method.md)
 * [Q1-Two-Sum](q1-two-sum.md)
 * [Q15-3-Sum](q15-3-sum.md)
 * [Q461-Hamming-Distance](q461-hamming-distance.md)
