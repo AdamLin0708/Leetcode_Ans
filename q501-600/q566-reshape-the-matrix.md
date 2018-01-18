@@ -1,11 +1,11 @@
-1. Reshape The Matrix
+# 566. Reshape The Matrix
 
 Problem: [https://leetcode.com/problems/reshape-the-matrix/description/](https://leetcode.com/problems/reshape-the-matrix/description/)
 
 作法：
 
 * 先把所有的數字以 row-traversing 放入 stack
-*  比較stack.length跟 r\*c
+* 比較stack.length跟 r\*c
   * 如果不一樣，代表無法產生reshape matrix，回傳nums
   * 如果一樣，代表可以reshape
   * 將stack內的element先按照c shift到row內
