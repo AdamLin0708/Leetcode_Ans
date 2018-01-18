@@ -32,21 +32,19 @@ Method: 由於Ruby並沒有Pointer，因此對於樹的建立會比較不同
 # @param {TreeNode} t2
 # @return {TreeNode}
 def merge_trees(t1, t2)
-    
+
     # base case
     return t2 if t1 == nil
     return t1 if t2 == nil
-    
+
     #rules
     node = TreeNode.new(t1.val+t2.val);
     node.left = merge_trees(t1.left, t2.left)
     node.right = merge_trees(t1.right, t2.right)
-        
+
     return node
 end
 ```
-
-
 
 
 

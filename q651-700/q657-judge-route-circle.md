@@ -11,7 +11,7 @@ Problem: [https://leetcode.com/problems/judge-route-circle/description    ](http
 
 Language: Ruby
 
-Method: 
+Method:
 
 * hash 初始化: [https://docs.ruby-lang.org/en/2.4.0/Hash.html](https://docs.ruby-lang.org/en/2.4.0/Hash.html)
 
@@ -36,30 +36,6 @@ def judge_circle(moves)
 
 end
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
