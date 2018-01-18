@@ -1,8 +1,12 @@
 # Leetcode Ans
 
-This is Leetcode Ans from Adam
+Topic: Leetcode Ans 
 
-[Introduction](README.md)
+Author: Adam Lin
+
+Language: Ruby
+
+## Summary
 
 * [Used-Ruby-Method](used-ruby-method.md)
 * [Q1-100](q1-50.md)
