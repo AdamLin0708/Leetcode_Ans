@@ -3,10 +3,10 @@
 * [Introduction](README.md)
 * [Used-Ruby-Method](used-ruby-method.md)
 * [Q1-100](q1-50.md)
-  * [Q1-Two-Sum](q1-50/q1-two-sum.md)
-  * [Q15-3-Sum](q1-50/q15-3-sum.md)
+  * [Q1-Two-Sum](q1-100/q1-two-sum.md)
+  * [Q15-3-Sum](q1-100/q15-3-sum.md)
 * [Q301-400](q300-350.md)
-  * Q344-Reverse-String
+  * [Q344-Reverse-String](q300-350/q344-reverse-string.md)
 * [Q401-500](q451-500.md)
   * [Q461-Hamming-Distance](q451-500/q461-hamming-distance.md)
   * [Q476-Number-Complement](q451-500/q476-number-complement.md)
