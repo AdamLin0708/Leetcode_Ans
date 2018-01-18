@@ -22,14 +22,14 @@ Method:
 # @param {Integer} num
 # @return {Integer}
 def find_complement(num)
-    
+
     bi_len = num.to_s(2).length
     x = 2 ** bi_len - 1
-    
+
     ans = x^num
-    
+
     return ans
-            
+
 end
 ```
 
