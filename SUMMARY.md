@@ -5,6 +5,8 @@
 * [Q1-100](q1-50.md)
   * [Q1-Two-Sum](q1-100/q1-two-sum.md)
   * [Q15-3-Sum](q1-100/q15-3-sum.md)
+* [Q201-300](q201-300.md)
+  * [Q292-Nim-Game](q201-300/q292-nim-game.md)
 * [Q301-400](q300-350.md)
   * [Q344-Reverse-String](q301-400/q344-reverse-string.md)
 * [Q401-500](q451-500.md)
