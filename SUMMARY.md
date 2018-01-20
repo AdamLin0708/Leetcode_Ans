@@ -9,6 +9,7 @@
   * [Q104-Maximum-Depth-Of-Binary-Tree](q101-200/q104-maximum-depth-of-binary-tree.md)
   * [Q136-Single-Number](q101-200/q136-single-number.md)
 * [Q201-300](q201-300.md)
+  * [Q226-Invert-Binary-Tree](q201-300/q226-invert-binary-tree.md)
   * [Q292-Nim-Game](q201-300/q292-nim-game.md)
 * [Q301-400](q300-350.md)
   * [Q344-Reverse-String](q301-400/q344-reverse-string.md)
