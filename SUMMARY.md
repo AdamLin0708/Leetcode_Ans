@@ -32,6 +32,7 @@
   * [Q657-Judge-Route-Circle](q601-700/q657-judge-route-circle.md)
   * [Q669-Trim-A-Binary-Search-Tree](q601-700/q669-trim-a-binary-search-tree.md)
   * [Q682-Baseball-Game](q601-700/q682-baseball-game.md)
+  * [Q690-Employee-Importance](q601-700/q690-employee-importance.md)
   * [Q693-Binary-Number-With-Alternating-Bits](q601-700/q693-binary-number-with-alternating-bits.md)
   * [Q695-Max-Area-Of-Island](q601-700/q695-max-area-of-island.md)
 * [Q701-800](q701-800.md)
