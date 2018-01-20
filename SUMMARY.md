@@ -5,6 +5,8 @@
 * [Q1-100](q1-50.md)
   * [Q1-Two-Sum](q1-100/q1-two-sum.md)
   * [Q15-3-Sum](q1-100/q15-3-sum.md)
+* [Q101-200](q101-200.md)
+  * Q136-Single-Number
 * [Q201-300](q201-300.md)
   * [Q292-Nim-Game](q201-300/q292-nim-game.md)
 * [Q301-400](q300-350.md)
@@ -28,8 +30,8 @@
   * [Q669-Trim-A-Binary-Search-Tree](q601-700/q669-trim-a-binary-search-tree.md)
   * [Q682-Baseball-Game](q601-700/q682-baseball-game.md)
   * [Q693-Binary-Number-With-Alternating-Bits](q601-700/q693-binary-number-with-alternating-bits.md)
-* [Q701-800](q700-750.md)
+* [Q701-800](q701-800.md)
   * [Q728-Self-Dividing-Numbers](q701-800/q728-self-dividing-numbers.md)
   * [Q760-Find-Anagram-Mappings](q701-800/q760-find-anagram-mappings.md)
-  * [Q762-Prime-Number-Of-Set-Bits-In-Binary-Representation](q701-800/q762-prime-number-of-set-bits-in-binary-representation.md)
+  * Q762-Prime-Number-Of-Set-Bits-In-Binary-Representation
 
