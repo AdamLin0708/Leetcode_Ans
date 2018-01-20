@@ -6,7 +6,7 @@
   * [Q1-Two-Sum](q1-100/q1-two-sum.md)
   * [Q15-3-Sum](q1-100/q15-3-sum.md)
 * [Q101-200](q101-200.md)
-  * [Q104-Maximum-Depth-Of-Binary-Tree](q104-maximum-depth-of-binary-tree.md)
+  * [Q104-Maximum-Depth-Of-Binary-Tree](q101-200/q104-maximum-depth-of-binary-tree.md)
   * [Q136-Single-Number](q101-200/q136-single-number.md)
 * [Q201-300](q201-300.md)
   * [Q292-Nim-Game](q201-300/q292-nim-game.md)
