@@ -1,4 +1,4 @@
-463. Island Perimeter
+# 463. Island Perimeter
 
 Problem: [https://leetcode.com/problems/island-perimeter/description/](https://leetcode.com/problems/island-perimeter/description/)
 
@@ -12,10 +12,10 @@ Language: Ruby
 # @param {Integer[][]} grid
 # @return {Integer}
 def island_perimeter(grid)
-   
+
     island = 0
     near = 0
-    
+
     for i in 0...grid.length
         for j in 0...grid[i].length
             if grid[i][j] == 1
@@ -29,13 +29,11 @@ def island_perimeter(grid)
             end
         end
     end
-    
+
     return island*4-near*2
-    
+
 end
 ```
-
-
 
 
 
