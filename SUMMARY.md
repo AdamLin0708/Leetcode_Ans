@@ -18,6 +18,7 @@
   * [Q476-Number-Complement](q401-500/q476-number-complement.md)
   * [Q496-Next-Greater-Element-I](q401-500/q496-next-greater-element-i.md)
   * [Q500-Keyboard-Row](q401-500/q500-keyboard-row.md)
+  * Q485-Max-Consecutive-Ones
 * [Q501-600](q551-600.md)
   * [Q557-Reverse-Words-In-A-String-III](q501-600/q557-reverse-words-in-a-string-iii.md)
   * [Q561-Array-Partition-I](q501-600/q561-array-partition-i.md)
