@@ -22,6 +22,7 @@
   * [Q496-Next-Greater-Element-I](q401-500/q496-next-greater-element-i.md)
   * [Q500-Keyboard-Row](q401-500/q500-keyboard-row.md)
 * [Q501-600](q551-600.md)
+  * Q520-Detect-Capital
   * [Q557-Reverse-Words-In-A-String-III](q501-600/q557-reverse-words-in-a-string-iii.md)
   * [Q561-Array-Partition-I](q501-600/q561-array-partition-i.md)
   * [Q566-Reshape-The-Matrix](q501-600/q566-reshape-the-matrix.md)
