@@ -23,6 +23,7 @@
   * [Q463-Island-Perimeter](q401-500/q463-island-perimeter.md)
   * [Q476-Number-Complement](q401-500/q476-number-complement.md)
   * [Q485-Max-Consecutive-Ones](q401-500/q485-max-consecutive-ones.md)
+  * [Q492-Construct-The-Rectangle](q401-500/q492-construct-the-rectangle.md)
   * [Q496-Next-Greater-Element-I](q401-500/q496-next-greater-element-i.md)
   * [Q500-Keyboard-Row](q401-500/q500-keyboard-row.md)
 * [Q501-600](q551-600.md)
