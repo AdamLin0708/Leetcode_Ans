@@ -14,6 +14,7 @@
   * [Q292-Nim-Game](q201-300/q292-nim-game.md)
 * [Q301-400](q300-350.md)
   * [Q344-Reverse-String](q301-400/q344-reverse-string.md)
+  * [Q389-Find-The-Difference](q301-400/q389-find-the-difference.md)
 * [Q401-500](q451-500.md)
   * [Q412-Fizz-Buzz](q401-500/q412-fizz-buzz.md)
   * [Q448-Find-All-Numbers-Disappeared-In-An-Array](q401-500/q448-find-all-numbers-disappeared-in-an-array.md)
