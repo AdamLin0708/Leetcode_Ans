@@ -11,6 +11,7 @@
 * [Q201-300](q201-300.md)
   * [Q226-Invert-Binary-Tree](q201-300/q226-invert-binary-tree.md)
   * [Q258-Add-Digits](q201-300/q258-add-digits.md)
+  * [Q283-Move-Zeroes](q201-300/q283-move-zeroes.md)
   * [Q292-Nim-Game](q201-300/q292-nim-game.md)
 * [Q301-400](q300-350.md)
   * [Q344-Reverse-String](q301-400/q344-reverse-string.md)
