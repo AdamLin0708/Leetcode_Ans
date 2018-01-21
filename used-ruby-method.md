@@ -3,7 +3,7 @@
 ## Numeric
 
 * 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
-* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A         ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
+* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A           ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
 * Math.sqrt: [https://ruby-doc.org/core-2.2.0/Math.html\#method-c-sqrt](https://ruby-doc.org/core-2.2.0/Math.html#method-c-sqrt)
 * prime?: [https://stackoverflow.com/questions/11762043/how-can-i-test-if-a-value-is-a-prime-number-in-ruby-both-the-easy-and-the-hard/30196127](https://stackoverflow.com/questions/11762043/how-can-i-test-if-a-value-is-a-prime-number-in-ruby-both-the-easy-and-the-hard/30196127)
 
@@ -32,6 +32,7 @@
 * Array shift: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-shift](http://ruby-doc.org/core-2.2.0/Array.html#method-i-shift)
 * Array count: [http://ruby-doc.org/core-2.2.0/Array.html\#method-i-count](http://ruby-doc.org/core-2.2.0/Array.html#method-i-count)
 * Array Max: [https://ubuntuforums.org/showthread.php?t=368348](https://ubuntuforums.org/showthread.php?t=368348)
+* 二維陣列的宣告: [http://ruby-doc.org/core-2.2.0/Array.html\#class-Array-label-Creating+Arrays](http://ruby-doc.org/core-2.2.0/Array.html#class-Array-label-Creating+Arrays)
 
 ## Hash
 
