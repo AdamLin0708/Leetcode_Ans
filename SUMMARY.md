@@ -37,6 +37,7 @@
   * [Q690-Employee-Importance](q601-700/q690-employee-importance.md)
   * [Q693-Binary-Number-With-Alternating-Bits](q601-700/q693-binary-number-with-alternating-bits.md)
   * [Q695-Max-Area-Of-Island](q601-700/q695-max-area-of-island.md)
+  * [Q696-Count-Binary-Substrings](q601-700/q696-count-binary-substrings.md)
 * [Q701-800](q701-800.md)
   * [Q728-Self-Dividing-Numbers](q701-800/q728-self-dividing-numbers.md)
   * [Q760-Find-Anagram-Mappings](q701-800/q760-find-anagram-mappings.md)
