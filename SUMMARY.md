@@ -33,6 +33,7 @@
   * [Q566-Reshape-The-Matrix](q501-600/q566-reshape-the-matrix.md)
   * [Q575-Distribute-Candies](q501-600/q575-distribute-candies.md)
   * [Q595-Big-Countries](q501-600/q595-big-countries.md)
+  * [Q598-Range-Addition-ll](q501-600/q598-range-addition-ll.md)
 * [Q601-700](q600-650.md)
   * [Q606-Construct-String-From-Binary-Tree](q601-700/q606-construct-string-from-binary-tree.md)
   * [Q617-Merge-Two-Binary-Tree](q601-700/q617-merge-two-binary-tree.md)
