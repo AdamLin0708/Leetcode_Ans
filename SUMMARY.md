@@ -33,6 +33,7 @@
   * [Q575-Distribute-Candies](q501-600/q575-distribute-candies.md)
   * [Q595-Big-Countries](q501-600/q595-big-countries.md)
 * [Q601-700](q600-650.md)
+  * [Q606-Construct-String-From-Binary-Tree](q601-700/q606-construct-string-from-binary-tree.md)
   * [Q617-Merge-Two-Binary-Tree](q601-700/q617-merge-two-binary-tree.md)
   * [Q653-Two-Sum-IV-Input-Is-A-BST](q601-700/q653-two-sum-iv-input-is-a-bst.md)
   * [Q657-Judge-Route-Circle](q601-700/q657-judge-route-circle.md)
