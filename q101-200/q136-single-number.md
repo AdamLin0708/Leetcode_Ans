@@ -35,21 +35,23 @@ end
 * 如 input是 11223
 * 1^1^2^2^3 =&gt; \(1^1\)^\(2^2\)^3 =&gt; 0^0^3 =&gt; 3 
 
+Language: Ruby
+
 ```
 # @param {Integer[]} nums
 # @return {Integer}
 def single_number(nums)
-    
+
     c = nums[0]
-    
+
     for i in 1...nums.length
-        
+
         c = c^nums[i]
-        
+
     end
-    
+
     return c
-    
+
 end
 ```
 
