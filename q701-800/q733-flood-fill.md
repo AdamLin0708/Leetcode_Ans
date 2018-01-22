@@ -24,15 +24,15 @@ Language: Ruby
 # @param {Integer} new_color
 # @return {Integer[][]}
 def flood_fill(image, sr, sc, new_color)
-    
+
     color = image[sr][sc]
     dfs(image, sr, sc, color, new_color) if color != new_color 
     return image
-    
+
 end
 
 def dfs(image, r, c, color, new_color)
-    
+
     if image[r][c] == color         
         image[r][c] = new_color                
         dfs(image, r-1, c, color, new_color) if r >= 1
@@ -40,7 +40,7 @@ def dfs(image, r, c, color, new_color)
         dfs(image, r+1, c, color, new_color) if r+1 < image.length
         dfs(image, r, c+1, color, new_color) if c+1 < image[0].length
     end
-    
+
 end
 ```
 
