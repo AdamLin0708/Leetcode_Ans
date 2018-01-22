@@ -3,11 +3,14 @@
 ## Numeric
 
 * 轉成不同進位: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-to\\_s](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-to_s)
-* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A           ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
+* x的y次方: [http://ruby-doc.org/core-2.1.0/Fixnum.html\\#method-i-2A-2A             ](http://ruby-doc.org/core-2.1.0/Fixnum.html#method-i-2A-2A)
 * Math.sqrt: [https://ruby-doc.org/core-2.2.0/Math.html\#method-c-sqrt](https://ruby-doc.org/core-2.2.0/Math.html#method-c-sqrt)
 * prime?: [https://stackoverflow.com/questions/11762043/how-can-i-test-if-a-value-is-a-prime-number-in-ruby-both-the-easy-and-the-hard/30196127](https://stackoverflow.com/questions/11762043/how-can-i-test-if-a-value-is-a-prime-number-in-ruby-both-the-easy-and-the-hard/30196127)
 
-* ## Loop
+* Integer chr: [http://ruby-doc.org/core-2.2.0/Integer.html\#method-i-chr](http://ruby-doc.org/core-2.2.0/Integer.html#method-i-chr)
+
+## Loop
+
 * while loop in one line: [https://teamtreehouse.com/community/single-line-while-loop-with-brackets](https://teamtreehouse.com/community/single-line-while-loop-with-brackets "https://teamtreehouse.com/community/single-line-while-loop-with-brackets")
 
 ## String
@@ -20,6 +23,7 @@
 * \(補充\) String capitalize: [https://ruby-doc.org/core-2.2.0/String.html\#method-i-capitalize](https://ruby-doc.org/core-2.2.0/String.html#method-i-capitalize)
 * String to\_i: [https://ruby-doc.org/core-2.0.0/String.html\#method-i-to\_i](https://ruby-doc.org/core-2.0.0/String.html#method-i-to_i)
 * String is\_a? Integer: [https://stackoverflow.com/questions/4589968/checking-if-a-variable-is-an-integer](https://stackoverflow.com/questions/4589968/checking-if-a-variable-is-an-integer)
+* String ord: [https://ruby-doc.org/core-2.2.0/String.html\#method-i-ord](https://ruby-doc.org/core-2.2.0/String.html#method-i-ord)
 
 ## Array
 

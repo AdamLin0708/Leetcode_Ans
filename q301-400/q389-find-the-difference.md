@@ -46,6 +46,11 @@ end
 
 Language: Ruby
 
+Method: 
+
+* Integer chr: [http://ruby-doc.org/core-2.2.0/Integer.html\#method-i-chr](http://ruby-doc.org/core-2.2.0/Integer.html#method-i-chr)
+* String ord: [https://ruby-doc.org/core-2.2.0/String.html\#method-i-ord](https://ruby-doc.org/core-2.2.0/String.html#method-i-ord)
+
 ```
 # @param {String} s
 # @param {String} t
